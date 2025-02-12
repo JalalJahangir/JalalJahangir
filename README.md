@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jalal Jahangir, a BS(CS) graduate FAST NUCES Islamabad, Pakistan.
-- 👀 I’m interested in Software Development, Web Development (mostly Front-end) and basically anything that involves programming! :D
-- 🌱 I’m currently learning DevOps and NextJS.
+- 👀 I’m interested in AI Development, Web Development (mostly Front-end) and basically anything that involves programming! :D
+- 🌱 I’m currently learning Generative AI.
 - 📫 How to reach me https://www.linkedin.com/in/jalaljahangir/
